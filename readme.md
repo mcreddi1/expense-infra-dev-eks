@@ -2,8 +2,6 @@
 
 ![My Image](https://github.com/daws-81s/expense-infra/blob/main/expense-infra.svg)
 
-https://github.com/daws-81s/expense-infra/blob/main/expense-infra.svg
-
 * Make sure infra is created. 
 * Every resource should have dev in its name, so that it will not overlap with prod resources.
 
