@@ -1,5 +1,7 @@
 # Expense DEV Infrastructure
 
+![My Image](https://github.com/daws-81s/expense-infra/blob/main/expense-infra.svg)
+
 https://github.com/daws-81s/expense-infra/blob/main/expense-infra.svg
 
 * Make sure infra is created. 
